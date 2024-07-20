@@ -100,14 +100,37 @@
 
 ### Ch 8 What if they use dirty tricks?
 
+* Negotiate the rules: recognize a tricky tactic, raise the issue explicitly, question the tactic's legitimacy and desirability.
+* Use previous advice for negotiating a fair procedure when tricky tactics are recognized: separate people from problem, focus on interests instead of positions, invent options for mutual gain, insist on objective criteria.
+* Common tricky tactics: deliberate deception (facts, ambiguous authority, insincere intentions, less than full disclosure), psychological warfare (stressful situations, personal attacks, good guy/bad guy routine).
+* Don't be a victim.
+
 ## Section IV In Conclusion
+
+* Much of this is familiar.
+* Learn from doing.
+* Focus on a good solution rather than "winning".
 
 ## Section V 10 Questions
 
 ### Questions about fairness and "principled" negotiation
 
+* Does positional bargaining ever make sense?
+* What if the other side believes in a different standard of fairness?
+* Should I be fair if I don't have to be?
+
 ### Questions about dealing with people
+
+* What do I do if the people are the problem?
+* Should I negotiate even with terrorists or someone like Hitler? When does it make sense NOT to negotiate?
+* How should I adjust my negotiating approach to account for differences fo personality, gender, culture, and so on?
 
 ### Questions about tactics
 
+* How do I decide things like 'Where should we meet?' 'How should we communicate?' 'Who should make the first offer?' ' and 'How high should I start?'
+* Concretely, how do I move from inventing options to making commitments?
+* How do I try out these ideas without taking too much risk?
+
 ### Questions about power
+
+* Can the way I negotiate really make a difference if the other side is more powerful? How do I enhance my negotiating power?
